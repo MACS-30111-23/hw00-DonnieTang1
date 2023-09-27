@@ -24,7 +24,7 @@ Edit this README file to include a brief biography of yourself. Your README shou
 **Dear Professor**
 
 I'm Ziheng Tang, a Chinese international student who are interested in Computational Social Science. Let me introduce myself
-![](../../../Desktop/Doc/Ziheng.jpg)
+![](Ziheng.jpg)
 
 **BioGraphy**
 
